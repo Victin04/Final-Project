@@ -1,0 +1,20 @@
+
+div{
+    padding-top: 100px;
+    margin-left: 20vw;
+}
+
+header{
+    font-family: 'Silkscreen', cursive;
+    display: flex;
+    flex-direction: row;
+}
+
+header .logo {
+    width: 50%;
+}
+
+header .logo img {
+    width: 140px;
+}
+
